@@ -1,6 +1,6 @@
-# Sostenibilidad-en-el-desempe-o-profesional-y-personal
+# Sostenibilidad en el desempenyo profesional y personal
 
-Índice
+# Índice
 
 1.1.- Introducción
 
@@ -19,6 +19,6 @@ Mapa conceptual (Herramientas utilizada)
 Glosario (Desarrollo sostenible, Desempeño profesional en relación con la sostenibilidad, Desempeño personal en 
 relación con la sostenibilidad, Educación ambiental,  Formación ambiental, Oportunidad medioambiental, prácticas sostenibles, Reto medioambiental)
 
-Referencias
+# Referencias
 
 Autores
