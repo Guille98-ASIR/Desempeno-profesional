@@ -1,5 +1,7 @@
 # Sostenibilidad en el desempenyo profesional y personal
 
+![portada](img/portada.jpg)
+
 # Índice
 
 1.1.- Introducción
