@@ -24,3 +24,9 @@ relación con la sostenibilidad, Educación ambiental,  Formación ambiental, Op
 # Referencias
 
 Autores
+
+IBL
+
+DSR
+
+[GCR](https://github.com/Guille98-ASIR/Desempeno-profesional)
