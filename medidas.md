@@ -1,6 +1,7 @@
 # Medidas y oportunidades
 
 
+![Medidas](img/Medidas.jpg)
 Las buenas prácticas ambientales en el ámbito de trabajo son medidas sencillas y útiles que las administraciones públicas pueden adoptar de cara a reducir el impacto ambiental negativo de las actividades. Estas acciones implican cambios en la organización y, fundamentalmente, en el comportamiento y los hábitos de las personas para disminuir riesgos ambientales, promover el ahorro de recursos y una gestión sostenible de la actividad pública. En la mayoría de los casos son cambios simples, de aplicación relativamente sencilla y de gran aceptación dentro de las entidades.
 
 
