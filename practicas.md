@@ -1,6 +1,6 @@
  # Prácticas sostenibles en el ambiente personal
 
-
+![Practicas](img/Practicas.png)
 ## 1. Usa eficientemente la energía.
 
 
