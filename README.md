@@ -22,6 +22,8 @@
 
 # Referencias
 
+[Agenda2030](https://somosiberoamerica.org/tribunas/agenda-2030-para-el-desarrollo-sostenible-7-riesgos-7-oportunidades/)
+
 # Autores
 
 [IBL](https://github.com/IvanBL8/Desempeno-profesional)
