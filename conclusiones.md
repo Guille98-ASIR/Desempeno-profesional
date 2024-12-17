@@ -1,4 +1,4 @@
-![planta](img/si.jpg)
+![planta](img/si.jpeg)
 
 En la actualidad, el planeta está reaccionando negativamente a la manera en que hemos explotado sus recursos para satisfacer nuestras necesidades, sin un enfoque responsable ni sostenible. La pérdida de biodiversidad, la desaparición de selvas y animales, son evidencias de que no hemos logrado encontrar un modelo adecuado para conservar los recursos naturales.
 
