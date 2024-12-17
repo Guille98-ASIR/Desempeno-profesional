@@ -18,8 +18,9 @@ La salida de la zona de confort lleva a las personas a cultivar nuevas caracter�
 
   Tanto en el ámbito laboral como en el profesional, sin organización difícilmente se pueda llegar lejos. Y un profesional con cualidades de organización y orden será muy valorado por las empresas. La planificación y el cumplimiento de estas acciones en busca de un objetivo funcionarán gracias al orden establecido por el profesional.
 
- 
-__**Del desarrollo profesional al desarrollo personal**__
+ <p>
+<u>Del desarrollo profesional al desarrollo personal</u>
+</p>
 
 Por otra parte, siempre se suele pensar que el desarrollo personal deriva en un posterior desarrollo profesional. Pero hay momentos donde también se puede encontrar una situación inversa. El crecimiento profesional ha llevado a un crecimiento personal. Y esto puede deberse a:
 
