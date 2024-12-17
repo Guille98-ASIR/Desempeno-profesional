@@ -18,7 +18,7 @@ La salida de la zona de confort lleva a las personas a cultivar nuevas caracter�
 
   Tanto en el ámbito laboral como en el profesional, sin organización difícilmente se pueda llegar lejos. Y un profesional con cualidades de organización y orden será muy valorado por las empresas. La planificación y el cumplimiento de estas acciones en busca de un objetivo funcionarán gracias al orden establecido por el profesional.
 
-![akfvask](img/gestion.jpg)
+![akfvask](img/gestión.jpg)
 
 # Del desarrollo profesional al desarrollo personal
 
