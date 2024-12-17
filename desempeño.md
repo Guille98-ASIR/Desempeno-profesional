@@ -2,19 +2,19 @@
 
 La salida de la zona de confort lleva a las personas a cultivar nuevas características que, en la mayoría de los casos, repercutirán de forma positiva. Las empresas que apuestan a esta clase de recursos humanos, entienden y demandan que sus empleados posean un grado de compromiso. Y estar comprometido con su causa no significa solamente entrar y salir de la misma diariamente, según lo estipule el horario. Siempre y cuando se valore el recurso humano, la dedicación que las empresas sostienen en su día a día laboral tiene como objetivo que el personal considere a la compañía como propia. Estar involucrado en la causa, y viviendo los aciertos y errores como si se trataran de cuestiones personales, llevarán a fortalecer un vínculo que beneficiará ambas partes.  
 
-  ## Los valores
+  ## Los valores:
 
   La integridad y la honestidad de una persona serán considerados como los valores fundamentales que se le puede brindar a la empresa y a su vida profesional. La vida laboral de una persona ocupa gran parte de su tiempo. Y si estos aspectos están unidos mediante estos valores, serán un reflejo muy positivo a la hora del desempeño profesional.
     
-  ## El optimismo
+  ## El optimismo:
 
   Encarar lo que tengamos por delante con un punto de vista positivo, causará un buen impacto en el ámbito laboral. De nada sirve si estas cuestiones se enfrentan con pesimismo y sin ganas. Todo consiste en la actitud positiva y su contagio.
     
-  ## La constancia
+  ## La constancia:
 
   La persistencia y la fuerza de voluntad es la materia prima de cualquier profesional, al momento de alcanzar sus objetivos. Esta actitud llevará a las personas a conquistar sus metas y objetivos, tanto a nivel persona como profesional. Y tal como mencionamos anteriormente, su actitud positiva e iniciativa genera contagio.
     
-  ## La organización
+  ## La organización:
 
   Tanto en el ámbito laboral como en el profesional, sin organización difícilmente se pueda llegar lejos. Y un profesional con cualidades de organización y orden será muy valorado por las empresas. La planificación y el cumplimiento de estas acciones en busca de un objetivo funcionarán gracias al orden establecido por el profesional.
 
