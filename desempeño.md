@@ -1,6 +1,6 @@
 # Desempeño profesional y personal
 
-La salida de la zona de confort lleva a las personas a cultivar nuevas características que, en la mayoría de los casos, repercutirán de forma positiva. Las empresas que apuestan a esta clase de recursos humanos, entienden y demandan que sus empleados posean un grado de compromiso. Y estar comprometido con su causa no significa solamente entrar y salir de la misma diariamente, según lo estipule el horario. Siempre y cuando se valore el recurso humano, la dedicación que las empresas sostienen en su día a día laboral tiene como objetivo que el personal considere a la compañía como propia. Estar involucrado en la causa, y viviendo los aciertos y errores como si se trataran de cuestiones personales, llevarán a fortalecer un vínculo que beneficiará ambas partes.  
+La salida de la zona de confort lleva a las personas a cultivar nuevas características que, en la mayoría de los casos, repercutirán de forma positiva. Las empresas que apuestan a esta clase de recursos humanos, entienden y demandan que sus empleados posean un grado de compromiso. Y estar comprometido con una causa no significa solamente hacer lo mínimo. Siempre y cuando se valore el recurso humano, la dedicación que las empresas sostienen en su día a día laboral tiene como objetivo que el personal considere a la compañía como propia. Estar involucrado en la causa, y viviendo los aciertos y errores como si se trataran de cuestiones personales, llevarán a fortalecer un vínculo que beneficiará ambas partes.  
 
   ## Los valores:
 
