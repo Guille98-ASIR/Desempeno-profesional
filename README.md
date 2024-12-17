@@ -1,6 +1,6 @@
 # Sostenibilidad en el desempenyo profesional y personal
 
-![portada](img/portada.jpg)
+![portada](img/giphy.gif)
 
 # Índice
 
