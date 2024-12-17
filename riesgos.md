@@ -1,3 +1,6 @@
+![ODS](img/ods.gif)
+
+
 La Agenda 2030 para el Desarrollo Sostenible, que tiene 17 Objetivos de Desarrollo Sostenible (ODS), es un gran avance al pensar en cómo mejorar el mundo. En lugar de centrarse solo en el crecimiento económico, los ODS buscan una visión más completa que incluye aspectos sociales, políticos, económicos y ambientales. La idea es mejorar cosas como la igualdad de género, la salud, la educación y la sostenibilidad ambiental, reconociendo que todos compartimos el mismo planeta, que es limitado y necesita ser cuidado.
 
 Uno de los puntos fuertes de la Agenda 2030 es que une dos enfoques previos: el desarrollo humano (propuesto por los Objetivos de Desarrollo del Milenio, ODM) y el desarrollo sostenible (de las Cumbres de la Tierra). Esto evita la confusión de tener dos agendas separadas, y en lugar de eso, permite avanzar de manera conjunta. Al hacerlo, los ODS crean un círculo positivo en el que el progreso en una área favorece el avance en otras, como cuando un área de la vida mejora y tiene efectos positivos en el resto. Además, aunque los ODS no son vinculantes legalmente, buscan garantizar la dignidad humana y el respeto por el planeta, y nos invitan a trabajar juntos como comunidad internacional.
