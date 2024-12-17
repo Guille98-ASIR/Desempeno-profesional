@@ -8,11 +8,11 @@ La salida de la zona de confort lleva a las personas a cultivar nuevas caracter�
     
   ## El optimismo:
 
-  Encarar lo que tengamos por delante con un punto de vista positivo, causará un buen impacto en el ámbito laboral. De nada sirve si estas cuestiones se enfrentan con pesimismo y sin ganas. Todo consiste en la actitud positiva y su contagio.
+  Encarar lo que tengamos por delante con un punto de vista positivo, causará un buen impacto en el ámbito laboral. De nada sirve si estas cuestiones se enfrentan con pocas ganas. Todo consiste en la actitud positiva y su contagio.
     
   ## La constancia:
 
-  La persistencia y la fuerza de voluntad es la materia prima de cualquier profesional, al momento de alcanzar sus objetivos. Esta actitud llevará a las personas a conquistar sus metas y objetivos, tanto a nivel persona como profesional. Y tal como mencionamos anteriormente, su actitud positiva e iniciativa genera contagio.
+  La persistencia y la fuerza de voluntad es la materia prima de cualquier profesional, al momento de alcanzar sus objetivos. Esta actitud llevará a las personas a conquistar sus metas y objetivos, tanto a nivel persona como profesional.
     
   ## La organización:
 
@@ -20,8 +20,7 @@ La salida de la zona de confort lleva a las personas a cultivar nuevas caracter�
 
 # Del desarrollo profesional al desarrollo personal
 
-
-Por otra parte, siempre se suele pensar que el desarrollo personal deriva en un posterior desarrollo profesional. Pero hay momentos donde también se puede encontrar una situación inversa. El crecimiento profesional ha llevado a un crecimiento personal. Y esto puede deberse a:
+Por otra parte, siempre se suele pensar que el desarrollo personal lleva a un posterior desarrollo profesional. Pero hay momentos donde también se puede encontrar una situación inversa. El crecimiento profesional ha llevado a un crecimiento personal. Y esto puede deberse a:
 
   ## Trabajo en equipo:
 
