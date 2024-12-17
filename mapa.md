@@ -1,1 +1,1 @@
-![mapa](mapa.png)
+![mapa](img/mapa.png)
