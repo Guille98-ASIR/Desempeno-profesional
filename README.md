@@ -14,9 +14,9 @@
 
 1.5.- [Prácticas sostenibles en el ambiente personal](practicas.md)
 
-Conclusiones
+[Conclusiones](conclusiones.md)
 
-Mapa conceptual (Herramientas utilizadas)
+[Mapa conceptual](mapa.md)
 
 [Glosario](glosario.md)
 
