@@ -12,7 +12,7 @@
 
 1.4.- [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
 
-1.5.- Prácticas sostenibles en ele ambiente personal.
+1.5.- [Prácticas sostenibles en el ambiente personal](practicas.md)
 
 Conclusiones
 
