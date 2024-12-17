@@ -1,18 +1,18 @@
 # Sostenibilidad en el desempenyo profesional y personal
 
-![portada](img/portada.jpg)
+![portada](img/giphy.gif)
 
 # Índice
 
-1.1.- Introducción
+1.1.- [Introducción](introduccion.md)
 
-1.2.- Desempeño profesional y personal.
+1.2.- [Desempeño profesional y personal](desempeño.md)
 
 1.3.- Riesgos y oportunidades que representan los ODS.
 
 1.4.- [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
 
-1.5.- Prácticas sostenibles en ele ambiente personal.
+1.5.- [Prácticas sostenibles en el ambiente personal](practicas.md)
 
 Conclusiones
 
