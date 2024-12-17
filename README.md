@@ -1,4 +1,4 @@
-# Sostenibilidad en el desempenyo profesional y personal
+# Sostenibilidad en el desempeño profesional y personal
 
 ![portada](img/giphy.gif)
 
@@ -8,7 +8,7 @@
 
 1.2.- [Desempeño profesional y personal](desempeño.md)
 
-1.3.- Riesgos y oportunidades que representan los ODS.
+1.3.- [Riesgos y oportunidades que representan los ODS](riesgos.md)
 
 1.4.- [Medidas y oportunidades para atender los retos ambientales desde el entorno personal y profesional](medidas.md)
 
@@ -26,6 +26,6 @@ Mapa conceptual (Herramientas utilizadas)
 
 [IBL](https://github.com/IvanBL8/Desempeno-profesional)
 
-DSR
+[DSR](https://github.com/JohnDSil/Desempeno-profesional)
 
 [GCR](https://github.com/Guille98-ASIR/Desempeno-profesional)
