@@ -6,7 +6,7 @@
 
 1.1.- [Introducción](introduccion.md)
 
-1.2.- Desempeño profesional y personal.
+1.2.- [Desempeño profesional y personal](desempeño.md)
 
 1.3.- Riesgos y oportunidades que representan los ODS.
 
