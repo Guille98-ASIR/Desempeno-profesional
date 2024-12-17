@@ -26,6 +26,8 @@
 
 [Euroaula](https://www.euroaula.com/es/desarrollo-profesional-y-personal)
 
+[ChatGPT](https://chatgpt.com/)
+
 # Autores
 
 [IBL](https://github.com/IvanBL8/Desempeno-profesional)
